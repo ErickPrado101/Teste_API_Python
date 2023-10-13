@@ -18,6 +18,7 @@ pip install django
 ## Configuração do Projeto
 
 1. Clone este repositório do GitHub para sua máquina local.
+2. (caso não queira logar recomendo que baixe via github pelo seu navegador)
 
 ```bash
 git clone https://github.com/seu-usuario/meu_projeto.git
